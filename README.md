@@ -1,2 +1,2 @@
-# gif-search app
-> Treehouse course
+# react-gif-search
+> GIF search app in React - Treehouse course
